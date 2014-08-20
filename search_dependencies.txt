@@ -25,7 +25,7 @@ Install.txt-----------------
 	-- It prompts for the identifier => Enter "stopwords" => It gets downloaded
 	-- It prompts for the identifier => Enter "wordnet" => It gets downloaded
 	-- It prompts for the identifier => Enter "maxent_treebank_pos_tagger" => It gets downloaded
-	-- Download the module with identifier - "punkt"
+	-- It prompts for the identifier => Enter "punkt" => It gets downloaded
 
 exit ipython
 
